@@ -18,7 +18,6 @@ class Template {
 
         $this->page = $page;
         require $this->base_template;
-        echo "kiedy to jest uruchamiane asdasdasdddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd";
     }
 
     public function content()
