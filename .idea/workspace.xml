@@ -94,8 +94,8 @@
       <file leaf-file-name="base.phtml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/views/base.phtml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.02058319" vertical-offset="97" max-vertical-offset="680">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.47512865" vertical-offset="97" max-vertical-offset="680">
+              <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -933,8 +933,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/base.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.02058319" vertical-offset="97" max-vertical-offset="680">
-          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.47512865" vertical-offset="97" max-vertical-offset="680">
+          <caret line="22" column="15" selection-start-line="22" selection-start-column="15" selection-end-line="22" selection-end-column="15" />
           <folding />
         </state>
       </provider>
